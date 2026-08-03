@@ -2,18 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
-    <loc>https://sobrepeconhentos.com.br/</loc>
+    <loc>https://celsojuniorresgata.com.br/</loc>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://sobrepeconhentos.com.br/palestra/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-    <image:image><image:loc>https://sobrepeconhentos.com.br/palestra/img/palestra-em-escola-animais-peconhentos.jpg</image:loc><image:caption>Celso Junior mostrando uma serpente para alunos durante palestra sobre animais peçonhentos em escola</image:caption></image:image>
-    <image:image><image:loc>https://sobrepeconhentos.com.br/palestra/img/demonstracao-com-cascavel-na-palestra.jpg</image:loc><image:caption>Demonstração de manejo com gancho e uma cascavel durante palestra para adultos</image:caption></image:image>
-    <image:image><image:loc>https://sobrepeconhentos.com.br/palestra/img/material-didatico-da-palestra.jpg</image:loc><image:caption>Crânios, exemplares conservados e equipamentos de resgate apresentados aos alunos na palestra</image:caption></image:image>
-    <image:image><image:loc>https://sobrepeconhentos.com.br/palestra/img/turma-em-trilha-de-educacao-ambiental.jpg</image:loc><image:caption>Turma reunida em trilha de educação ambiental com a caixa de transporte de fauna</image:caption></image:image>
-    <image:image><image:loc>https://sobrepeconhentos.com.br/palestra/img/equipe-gcm-franco-da-rocha.jpg</image:loc><image:caption>Celso Junior com colega da Guarda Civil Municipal de Franco da Rocha</image:caption></image:image>
+    <image:image><image:loc>https://celsojuniorresgata.com.br/img/palestra-em-escola-animais-peconhentos.jpg</image:loc><image:caption>Celso Junior mostrando uma serpente para alunos durante palestra sobre animais peçonhentos em escola</image:caption></image:image>
+    <image:image><image:loc>https://celsojuniorresgata.com.br/img/demonstracao-com-cascavel-na-palestra.jpg</image:loc><image:caption>Demonstração de manejo com gancho e uma cascavel durante palestra para adultos</image:caption></image:image>
+    <image:image><image:loc>https://celsojuniorresgata.com.br/img/material-didatico-da-palestra.jpg</image:loc><image:caption>Crânios, exemplares conservados e equipamentos de resgate apresentados aos alunos na palestra</image:caption></image:image>
+    <image:image><image:loc>https://celsojuniorresgata.com.br/img/turma-em-trilha-de-educacao-ambiental.jpg</image:loc><image:caption>Turma reunida em trilha de educação ambiental com a caixa de transporte de fauna</image:caption></image:image>
+    <image:image><image:loc>https://celsojuniorresgata.com.br/img/equipe-gcm-franco-da-rocha.jpg</image:loc><image:caption>Celso Junior com colega da Guarda Civil Municipal de Franco da Rocha</image:caption></image:image>
   </url>
 </urlset>
